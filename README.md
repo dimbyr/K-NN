@@ -1,7 +1,7 @@
 # K-NN
 
 
-A simple implementation of KNN in numpy, python 3. 
+A simple implementation of KNN binary classification in numpy, python 3. 
 The file knn.py contains the class defining the K-nearest neighbors model. 
 The notebook main.ipynb test the model by using the iris dataset. 
 
